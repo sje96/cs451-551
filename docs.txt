@@ -1,0 +1,3 @@
+here a simple python program that has a set date ad time,
+ and machies it to the curent date and time.
+ while giving you a print out on if you missed it or not 
